@@ -1,5 +1,5 @@
 {
-  "name": "basilicom-pimcore-plugin/TestPlugin",
+  "name": "basilicom-pimcore-plugin/test-plugin",
   "type": "pimcore-plugin",
   "license": "BSD-3-Clause",
   "description": "An example plugin demonstrating multiple ways for extending the Pimcore",
