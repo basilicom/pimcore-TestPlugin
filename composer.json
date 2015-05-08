@@ -1,8 +1,8 @@
 {
-  "name": "basilicom-pimcore-plugin/skeleton-plugin",
+  "name": "basilicom-pimcore-plugin/TestPlugin",
   "type": "pimcore-plugin",
   "license": "BSD-3-Clause",
-  "description": "A skeleton plugin demonstrating multiple ways for extending the Pimcore",
+  "description": "An example plugin demonstrating multiple ways for extending the Pimcore",
   "keywords": ["pimcore", "plugin", "admin", "administration", "skeleton"],
   "homepage": "http://basilicom.de/en/pimcore",
   "authors": [
